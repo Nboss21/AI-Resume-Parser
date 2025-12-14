@@ -10,7 +10,7 @@ export const ALLOWED_FILE_TYPES = {
   ],
   "text/plain": [".txt"],
 };
-
+//extra file section
 // Extract file extension from filename
 export const getFileExtension = (filename) => {
   return filename.slice(((filename.lastIndexOf(".") - 1) >>> 0) + 2);
