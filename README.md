@@ -34,9 +34,9 @@ Manually screening resumes is a time-consuming and inconsistent task for recruit
 ## 🛠 Tech Stack
 | Layer | Technology |
 | :--- | :--- |
-| **Frontend** | HTML, CSS, Vanilla JavaScript |
+| **Frontend** | Tailwind CSS , React |
 | **Backend** | Node.js, Express.js |
-| **AI/NLP Engine** | (To be integrated, e.g., TensorFlow.js, spaCy, or a third-party API) |
+| **AI/NLP Engine** | (To be integrated, e.g., TensorFlow.js, spaCy, or a third-party API(Gemini) |
 | **Package Manager** | npm |
 | **Version Control** | Git & GitHub |
 
